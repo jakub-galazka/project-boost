@@ -1,6 +1,8 @@
 # Project Boost 🚀
 
-![Unity Version](https://img.shields.io/badge/unity-2020.3.48f-black) ![GitHub License](https://img.shields.io/github/license/jakub-galazka/project-boost)
+![Unity Version](https://img.shields.io/badge/unity-2020.3.48f-black?logo=unity)
+![WebGL](https://img.shields.io/badge/webgl-990000?logo=webgl)
+![GitHub License](https://img.shields.io/github/license/jakub-galazka/project-boost)
 
 Rocket ship arcade game in which the goal is to reach the landing site and not crash along the way.
 
